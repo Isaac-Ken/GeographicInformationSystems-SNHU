@@ -1,0 +1,41 @@
+﻿ID ,Name,Address ,City ,State ,ZIP Code,Latitude ,Longitude  ,Type
+1000, Bay Park Cinema ,755 Willard Drive,Ashwaubenon,Wisconsin,54304,44.49041074,-88.06430729,M
+1001,BistroPlex Southridge,5210 S. 76th Street,Greendale ,Wisconsin,53129,42.95309502,-88.00366191,M
+1002,Campus Cinema,103 Watson Street,Ripon,Wisconsin,54971,43.8510423,-88.83912329,M
+1003,Cedar Creek Cinema,10101 Market Street,Rothschild,Wisconsin,54474,44.87079154,-89.63592398,M
+1004,Green Bay East Cinema , 1000 Kepler Drive,Green Bay,Wisconsin,54311,44.48632863,-87.94292551,M
+1005,Hillside Cinema, 2950 Hillside Drive,Delafield,Wisconsin,53018,43.05113778,-88.36834358,M
+1006,Hollywood Cinema, 513 North Westhill Boulevard,Appleton,Wisconsin,54914,44.26443868,-88.46298271,M
+1007,La Crosse Cinema, 2032 Ward Avenue,La Crosse,Wisconsin,54601,43.78270646,-91.22568088,M
+1008,Majestic Cinema of Brookfield, 770 Springdale Road,Waukesha,Wisconsin,53186,43.0400453,-88.1838956,M
+1009,Menomonee Falls Cinema, W180 N9393 Premier Lane,Menomonee Falls,Wisconsin,53051,43.18522087,-88.13417827,M
+1010,Movie Tavern Brookfield Square, 175 S. Moorland Road,Brookfield,Wisconsin,53005,43.03012294,-88.10940478,M
+1011,North Shore Cinema, 11700 North Port Washington Road,Mequon,Wisconsin,53092,43.23100329,-87.92197721,M
+1012,Oshkosh Cinema, 340 South Koeller Street ,Oshkosh,Wisconsin,54902,44.01578807,-88.58114555,M
+1013,Palace Cinema, 2830 Hoepker Road,Sun Prairie,Wisconsin,53590,43.16988743,-89.27269524,M
+1014,Point Cinema, 7825 Big Sky Drive,Madison,Wisconsin,53719,43.05797741,-89.51952114,M
+1015,Renaissance Cinema, 10411 Washington Avenue,Sturtevant,Wisconsin,53177,42.71772573,-87.91256077,M
+1016,Ridge Cinema, 5200 South Moorland Road,New Berlin,Wisconsin,53151,42.94914411,-88.1063953,M
+1017,Saukville Cinema, 350 South Riverside Drive,Saukville,Wisconsin,53080,43.37659287,-87.92758386,M
+1018,Sheboygan Cinema, 3226 Kohler Memorial Drive,Sheboygan,Wisconsin,53081,43.75760616,-87.75127132,M
+1019,Showtime Cinema, 8910 South 102nd Street,Franklin,Wisconsin,53132,42.88303618,-88.04124359,M
+1020,South Shore Cinema, 7261 South 13th Street,Oak Creek,Wisconsin,53154,42.9130224,-87.93414647,M
+1021,Southgate Cinema, 3330 South 30th Street,Milwaukee,Wisconsin,53215,42.98525739,-87.95182221,M
+1022,Valley Grand Cinema, W3091 Van Roy Road,Appleton,Wisconsin,54915,44.25564295,-88.34413987,M
+1023,AMC Mayfair Mall 18,2500 N Mayfair Rd Ste M186,Wauwatosa,Wisconsin,53226,43.06475294,-88.04358531,A
+1024,AMC CLASSIC Manitowoc 10,2555 S 44th St,Manitowoc ,Wisconsin,54220,44.06868891,-87.70493713,A
+1025,AMC Fitchburg 18,6091 Mckee Rd,Fitchburg,Wisconsin,53719,43.01454251,-89.46638047,A
+1026,AMC CLASSIC Johnson Creek 12,420 Village Walk Ln,Johnson Creek ,Wisconsin,53038,43.08139344,-88.76632107,A
+1027,AMC CLASSIC Desert Star 15,1301 Kalahari Dr,Baraboo,Wisconsin,53913,43.57220087,-89.77545805,A
+1029,Rogers Cinema 7,2725 Church St,Stevens Point,Wisconsin,54481,44.51540726,-89.56979836,R
+1030,Rogers Cinema 6,"220 E Grand Ave,",Wisconsin Rapids,Wisconsin,54494,44.45148321,-89.83663878,R
+1031,Rogers Cinema Waupaca,218 S Main St,Waupaca,Wisconsin,54981,44.40024403,-89.08731676,R
+1032,Rogers Cinema 8,419 S Central Ave,Marshfield,Wisconsin,54449,44.6631375,-90.17635287,R
+1033,Hudson 12 Theatre,520 Stageline Rd,Hudson,Wisconsin,54016,44.95971232,-92.69257259,E
+1034,Lake 7 Theatre,1769 County Hwy SS,Rice Lake,Wisconsin,54868,45.46309677,-91.73384094,E
+1035,Menomonie 7 Theatre,2521 WI-25,Menomonie,Wisconsin,54751,44.91395301,-91.93477894,E
+1036,Landmark's Downer Theatre,2589 N Downer Ave,Milwaukee,Wisconsin,53211,43.06581266,-87.87837465,L
+1037,Classic Cinemas Beloit Theatre,2799 Cranston Rd,Beloit,Wisconsin,53511,42.52657506,-88.98246201,C
+1038,Silverspot Cinema ,320 Market St,Brookfield,Wisconsin,53045,43.03867219,-88.16352241,S
+1039,Odyssey Fond du Lac 8 Theatre,1131 W Scott St,Fond du Lac,Wisconsin,54937,43.81640501,-88.49361925,O
+,,,,,,,,
